@@ -10,28 +10,28 @@
 
 Firstly I opened the Kickstarter workbook and added a 'Years' column using YEAR() based on the 'Date created conversion'. I created a pivot table to display the 'canceled, failed and successful' results in the columns. 'Parent Category' and 'Years' as filters. 
 
-/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.11.38 PM.png
+![Pivot Table](/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.11.38 PM.png)
 
 I filtered 'Parent Category' to theater and changed the row labels to months of the year. The count of outcomes has been sorted in descending order.
 
-/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.14.13 PM.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.14.13 PM.png
 
 Using this data, I created a line graph showing the outcomes based on Launch Date over one year.
 
-/Users/graemerennie/Desktop/DATA CLASS/Kickstarter_Challenge/Resources/Theater_Outcomes_vs_Launch.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/DATA CLASS/Kickstarter_Challenge/Resources/Theater_Outcomes_vs_Launch.png
 
 
 ### Analysis of Outcomes Based on Goals
 
 Using COUNTIFS ()I populated the number of canceled, failed and successful columns 
 
-/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.26.28 PM.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.26.28 PM.png
 
-/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.27.01 PM.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.27.01 PM.png
 
-/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.27.31 PM.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.27.31 PM.png
 
-/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.27.51 PM.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/Screen Shot 2022-05-05 at 10.27.51 PM.png
 
 I used =SUM(B2:D2) to populate the 'total projects' column.
 
@@ -39,7 +39,7 @@ I used =SUM(B2:D2) to populate the 'total projects' column.
 
 This line chart shows the goal amount on the x-axis and the percentage amount on the y-axis.
 
-/Users/graemerennie/Desktop/DATA CLASS/Kickstarter_Challenge/Resources/Outcomes_vs_Goals.png
+![Alt text](/path/to/img.jpg)/Users/graemerennie/Desktop/DATA CLASS/Kickstarter_Challenge/Resources/Outcomes_vs_Goals.png
 
 
 
